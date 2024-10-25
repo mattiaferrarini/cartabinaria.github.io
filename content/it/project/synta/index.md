@@ -4,5 +4,5 @@ summary: Strumento a linea di comando per lavorare con le grammatiche che regola
 tags:
   - dipendenze
 date: "2023-10-10T15:49:41+02:00"
-external_link: "https://cartabinaria.github.io/wiki/progetti-ausiliari/synta/"
+external_link: "https://cartabinaria.students.cs.unibo.it/wiki/progetti-ausiliari/synta/"
 ---

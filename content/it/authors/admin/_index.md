@@ -58,5 +58,5 @@ dell'[Università di Bologna](https://www.unibo.it). Qui, chiunque può usufruir
 degli strumenti, delle risorse e dei progetti presenti, nonché collaborare al
 loro sviluppo.
 
-Vuoi sapere di più? Consulta [la nostra wiki](https://cartabinaria.github.io/wiki)
+Vuoi sapere di più? Consulta [la nostra wiki](https://cartabinaria.students.cs.unibo.it/wiki)
 o [mandaci un messaggio](https://t.me/cartabinaria).

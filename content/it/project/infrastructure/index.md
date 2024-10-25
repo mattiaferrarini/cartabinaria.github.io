@@ -4,5 +4,5 @@ summary: Raccolta di compiti Ansible per configurare l'infrastruttura dietro a C
 tags:
   - dipendenze
 date: '2023-10-10T15:49:41+02:00'
-external_link: 'https://cartabinaria.github.io/wiki/infrastruttura/automazione/'
+external_link: 'https://cartabinaria.students.cs.unibo.it/wiki/infrastruttura/automazione/'
 ---

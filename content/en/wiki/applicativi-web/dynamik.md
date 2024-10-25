@@ -49,7 +49,7 @@ For the time being, we are maintaining a single [public Dynamik
 instance](https://dynamik.vercel.app/). Its depolyment is automatically
 performed when the `main` branch is updated.
 
-While the deployment of the second and third instances is controlled by CI/CD processes, for the first one, refer to [the guide on infrastructure automation](https://cartabinaria.github.io/wiki/infrastruttura/automazione/index.html).
+While the deployment of the second and third instances is controlled by CI/CD processes, for the first one, refer to [the guide on infrastructure automation](https://cartabinaria.students.cs.unibo.it/wiki/infrastruttura/automazione/index.html).
 
 ----
 ## Useful Links

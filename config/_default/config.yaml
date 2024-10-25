@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: CartaBinaria # Website name
-baseURL: "https://cartabinaria.github.io/it/" # Website URL
+baseURL: "https://cartabinaria.students.cs.unibo.it/it/" # Website URL
 
 ############################
 ## PAGE OPTIONS

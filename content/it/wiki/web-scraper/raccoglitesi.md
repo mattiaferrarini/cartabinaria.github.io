@@ -15,8 +15,8 @@ aggiorna in automatico e quotidianamente.
 
 Il progetto è ospitato su [GitHub](https://github.com/cartabinaria/raccoglitesi).
 La versione più recente dell'elenco generato è sempre consultabile
-[qui in PDF](https://cartabinaria.github.io/raccoglitesi/disi.pdf) o [qui come
-pagina web](https://cartabinaria.github.io/raccoglitesi/disi).
+[qui in PDF](https://cartabinaria.students.cs.unibo.it/raccoglitesi/disi.pdf) o [qui come
+pagina web](https://cartabinaria.students.cs.unibo.it/raccoglitesi/disi).
 
 ## Come funziona
 
@@ -39,6 +39,6 @@ ancora. Per questo motivo il programma è eseguito ogni giorno, a mezzanotte.
 
 ## Dipartimenti analizzati
 - [DISI: Dipartimento di Informatica - Scienza e
-  Ingegneria](https://cartabinaria.github.io/raccoglitesi/disi)
+  Ingegneria](https://cartabinaria.students.cs.unibo.it/raccoglitesi/disi)
 - [DEI: Ingegneria dell’Energia elettrica e dell’Informazione "Guglielmo
-  Marconi"](https://cartabinaria.github.io/raccoglitesi/dei)
+  Marconi"](https://cartabinaria.students.cs.unibo.it/raccoglitesi/dei)

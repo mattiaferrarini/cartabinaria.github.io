@@ -57,5 +57,5 @@ Engineering (DISI)](https://disi.unibo.it) of the [University of
 Bologna](https://www.unibo.it). Everybody here can use our tools, resources, and
 project, as well as contribute to their development.
 
-Do you want to know more? Check [our wiki](https://cartabinaria.github.io/wiki)
+Do you want to know more? Check [our wiki](https://cartabinaria.students.cs.unibo.it/wiki)
 or [text us](https://t.me/cartabinaria).

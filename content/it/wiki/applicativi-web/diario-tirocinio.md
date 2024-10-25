@@ -4,7 +4,7 @@ date: 2023-04-28T00:19:24+02:00
 ---
 
 - [Repository GitHub](https://github.com/cartabinaria/diario-tirocinio)
-- [Sito web](https://cartabinaria.github.io/diario-tirocinio/)
+- [Sito web](https://cartabinaria.students.cs.unibo.it/diario-tirocinio/)
 
 ## Descrizione
 
@@ -14,7 +14,7 @@ effettive e aggiungerle al proprio resoconto ore.
 
 ## Utilizzo
 
-1. Accedere al sito web [cartabinaria.github.io/diario-tirocinio](https://cartabinaria.github.io/diario-tirocinio/)
+1. Accedere al sito web [cartabinaria.students.cs.unibo.it/diario-tirocinio](https://cartabinaria.github.io/diario-tirocinio/)
 2. Aggiungi un semplice titolo
 3. Selezionare il numero di ore condotte
 4. Scrivi una descrizione del lavoro svolto

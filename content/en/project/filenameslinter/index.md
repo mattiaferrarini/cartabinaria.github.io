@@ -4,5 +4,5 @@ summary: Check that filenames respect the CartaBinaria's Resources naming standa
 tags:
   - dependencies
 date: "2023-10-10T15:49:41+02:00"
-external_link: "https://cartabinaria.github.io/wiki/progetti-ausiliari/filenameslinter/"
+external_link: "https://cartabinaria.students.cs.unibo.it/wiki/progetti-ausiliari/filenameslinter/"
 ---
