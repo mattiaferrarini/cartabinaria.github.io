@@ -1,11 +1,10 @@
 {
-  "name": "Raccolta risorse CSunibo",
-  "short_name": "CSunibo",
+  "name": "CartaBinaria",
+  "short_name": "CartaBinaria",
   "start_url": ".",
-  "id": "/cartabinaria.github.io/",
   "display": "standalone",
   "background_color": "#282828",
-  "description": "Raccolta risorse CSunibo",
+  "description": "CartaBinaria",
   "theme_color": "#282828",
   "icons": [
     {
