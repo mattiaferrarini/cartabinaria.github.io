@@ -34,7 +34,15 @@ categories:
   - web applications
 ---
 
-[CartaBinaria](https://github.com/cartabinaria)'s static homepage.
+[CartaBinaria](https://github.com/cartabinaria)'s static homepage. You are
+browsing it right now. Two public instances are available:
+
+- [department instance](https://cartabinaria.students.cs.unibo.it/);
+- [_GitHub Pages_ instance](https://cartabinaria.github.io/).
+
+The former is updated via [_Ansible_](../infrastruttura/automazione), while the
+latter is automatically updated when something is pushed to `main`.
+
 
 ## How to Deploy Locally?
 ```bash

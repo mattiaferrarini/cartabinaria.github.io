@@ -33,7 +33,16 @@ categories:
   - contribuire
   - applicativi web
 ---
-[CartaBinaria](https://github.com/cartabinaria)'s static homepage.
+
+Il sito statico per [CartaBinaria](https://github.com/cartabinaria) che stai
+visionando al momento. Due istanze pubbliche sono disponibili:
+
+- [istanza dipartimentale](https://cartabinaria.students.cs.unibo.it/);
+- [_GitHub Pages_](https://cartabinaria.github.io/).
+
+L'aggiornamento della prima avviene tramite
+[_Ansible_](../infrastruttura/automazione), mentre quello della seconda avviene
+in automatico a ogni modifica di `main`.
 
 ## Come fare il deploy localmente?
 ```bash
