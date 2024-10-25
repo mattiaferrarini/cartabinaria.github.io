@@ -24,7 +24,7 @@ dell'organizzazione [CartaBinaria su GitHub](https//github.com/cartabinaria):
     Non è necessario rimuovere sè stessi dal ruolo di Admin;
 7. nella pagina principale del nuovo insegnamento su GitHub, clicca
    sull'ingranaggio a fianco di "About";
-8. come "Website", usa `https://risorse.students.cs.unibo.it/nome-repository`,
+8. come "Website", usa `https://dynamik.vercel.app/nome-repository`,
    e togli le spunte da "Releases" e "Packages", poi aggiungi "Topics" a piacere
    e clicca su "Save changes";
 9. aggiorna il README riempiendo ogni segnaposto;

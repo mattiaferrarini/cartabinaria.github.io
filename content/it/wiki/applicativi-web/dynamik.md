@@ -45,16 +45,11 @@ pnpm preview
 
 ## Istanze pubbliche
 
-Esistono diverse istanze pubbliche di Dynamik:
-
-- [principale](https://risorse.students.cs.unibo.it);
-- [Vercel](https://dynamik.vercel.app/) (Istanza di riserva).
-
-Mentre la messa in produzione della seconda e della terza è controllata dai
-processi di CI/CD, per la prima si veda [la guida relativa all'automazione
-dell'infrastruttura](https://cartabinaria.github.io/wiki/infrastruttura/automazione/index.html).
+Al momento, manuteniamo solo un'[istanza pubblica di
+Dynamik](https://dynamik.vercel.app/). Essa è aggiornata automaticamente
+ogniqualvolta `main` subisce modifiche.
 
 ----
 ## Link utili
 
-[📊Build Status](https://risorse.students.cs.unibo.it/build)
+[📊Build Status](https://dynamik.vercel.app/build)

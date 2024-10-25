@@ -1,6 +1,6 @@
 ---
 title: 'Upload'
-summary: 'Upload your files and folders as [CartaBinaria resourses](https://risorse.students.cs.unibo.it) for your fellow students'
+summary: 'Upload your files and folders as [CartaBinaria resources](https://dynamik.vercel.app) for your fellow students'
 tags:
   - dependencies
   - progress

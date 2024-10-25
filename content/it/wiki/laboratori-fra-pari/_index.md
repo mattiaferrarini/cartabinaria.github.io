@@ -23,5 +23,6 @@ presso [`cartabinaria/lab`](https://github.com/cartabinaria/lab).
 o suggerire nuovi argomenti per laboratori fra pari tramite il modulo ["CartaBinaria
 in ascolto"](https://lr533gb3hpt.typeform.com/to/m5fzNCsW).
 
-I materiali sono disponibili e consultabile in [questa pagina](https://risorse.students.cs.unibo.it/lab).
+I materiali sono disponibili e consultabile in [questa
+pagina](https://dynamik.vercel.app/lab).
 > Info sui prossimi incontri: [sito ADMStaff](https://students.cs.unibo.it)

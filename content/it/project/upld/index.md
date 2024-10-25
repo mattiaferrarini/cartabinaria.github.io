@@ -1,6 +1,6 @@
 ---
 title: 'Upload'
-summary: 'Upload di file e cartelle da interfaccia web [Risorse](https://risorse.students.cs.unibo.it)'
+summary: 'Upload di file e cartelle da interfaccia web [Risorse](https://dynamik.vercel.app)'
 tags:
   - dipendenze
   - arrivo

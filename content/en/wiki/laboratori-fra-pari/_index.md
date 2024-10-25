@@ -17,5 +17,6 @@ Peer workshops are educational events organized by CartaBinaria and conducted by
 
 You can sign up or suggest new topics for peer workshops through the ["CartaBinaria Listening"](https://lr533gb3hpt.typeform.com/to/m5fzNCsW) form.
 
-The materials are available and can be accessed on [this page](https://risorse.students.cs.unibo.it/lab).
+The materials are available and can be accessed on [this
+page](https://dynamik.vercel.app/lab).
 > Information about upcoming meetings: [ADMStaff website](https://students.cs.unibo.it)

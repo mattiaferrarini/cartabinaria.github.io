@@ -14,10 +14,8 @@ categories:
 
 For each course, we collect notes, texts, exercise solutions, exam papers,
 books, handouts, slides, and much more in an organized manner. Once uploaded,
-they become accessible on the following instances:
-
-- [risorse.students.cs.unibo.it](https://risorse.students.cs.unibo.it) (main instance);
-- [dynamik.vercel.app](https://dynamik.vercel.app/) (backup instance 1);
+they become accessible on our public instance:
+[dynamik.vercel.app](https://dynamik.vercel.app/).
 
 ## Quality Control
 
