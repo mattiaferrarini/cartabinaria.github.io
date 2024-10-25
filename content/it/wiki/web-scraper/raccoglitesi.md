@@ -13,10 +13,10 @@ Raccoglitesi è una _utility_ command line per studenti Unibo: trova tutte le
 tesi triennali e magistrali offerte da un certo dipartimento. Raccoglitesi si
 aggiorna in automatico e quotidianamente.
 
-Il progetto è ospitato su [GitHub](https://github.com/csunibo/raccoglitesi).
+Il progetto è ospitato su [GitHub](https://github.com/cartabinaria/raccoglitesi).
 La versione più recente dell'elenco generato è sempre consultabile
-[qui in PDF](https://csunibo.github.io/raccoglitesi/disi.pdf) o [qui come
-pagina web](https://csunibo.github.io/raccoglitesi/disi).
+[qui in PDF](https://cartabinaria.github.io/raccoglitesi/disi.pdf) o [qui come
+pagina web](https://cartabinaria.github.io/raccoglitesi/disi).
 
 ## Come funziona
 
@@ -39,6 +39,6 @@ ancora. Per questo motivo il programma è eseguito ogni giorno, a mezzanotte.
 
 ## Dipartimenti analizzati
 - [DISI: Dipartimento di Informatica - Scienza e
-  Ingegneria](https://csunibo.github.io/raccoglitesi/disi)
+  Ingegneria](https://cartabinaria.github.io/raccoglitesi/disi)
 - [DEI: Ingegneria dell’Energia elettrica e dell’Informazione "Guglielmo
-  Marconi"](https://csunibo.github.io/raccoglitesi/dei)
+  Marconi"](https://cartabinaria.github.io/raccoglitesi/dei)

@@ -8,7 +8,7 @@ date: 2023-03-18T18:05:34+01:00
 
 ## Introduction
 
-[This LaTeX thesis template](https://github.com/csunibo/latex-thesis) combines the frontispiece and the example, both in LaTeX, proposed by the department.
+[This LaTeX thesis template](https://github.com/cartabinaria/latex-thesis) combines the frontispiece and the example, both in LaTeX, proposed by the department.
 
 ## Usage
 

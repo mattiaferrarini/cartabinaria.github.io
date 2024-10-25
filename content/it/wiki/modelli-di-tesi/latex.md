@@ -8,7 +8,7 @@ date: 2023-03-18T18:05:34+01:00
 
 ## Introduzione
 
-[Questo modello per tesi in LaTeX](https://github.com/csunibo/latex-thesis)
+[Questo modello per tesi in LaTeX](https://github.com/cartabinaria/latex-thesis)
 combina il frontespizio e l'esempio, entrambi in LaTeX, proposti dal
 dipartimento.
 

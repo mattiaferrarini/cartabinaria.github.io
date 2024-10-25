@@ -3,7 +3,7 @@ title: "Calendario"
 date: 2023-04-05T00:16:04+02:00
 ---
 
-- [Repository GitHub](https://github.com/csunibo/UniboCalendar)
+- [Repository GitHub](https://github.com/cartabinaria/UniboCalendar)
 - [Sito web](https://calendar.students.cs.unibo.it/)
 
 ## Descrizione
@@ -13,7 +13,7 @@ un corso di laurea dell'Università di Bologna. L'utente può scegliere tra i
 corsi di laurea disponibili e scegliere quali lezioni aggiungere al proprio
 calendario.
 
-Il progetto non nasce in seno a CSUnibo, ma una istanza pubblica è manutenuta
+Il progetto non nasce in seno a CartaBinaria, ma una istanza pubblica è manutenuta
 da noi. Il [progetto originale](https://github.com/FrancescoBonzi/UniboCalendar)
 è di Francesco Bonzi.
 

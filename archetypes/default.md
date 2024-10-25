@@ -8,5 +8,5 @@ tags:
   - dipendenze
   - arrivo
 date: '{{ .Date }}'
-external_link: 'https://github.com/csunibo/{{default (printf "%s" (path.Base (path.Dir .File.Dir)))}}'
+external_link: 'https://github.com/cartabinaria/{{default (printf "%s" (path.Base (path.Dir .File.Dir)))}}'
 ---

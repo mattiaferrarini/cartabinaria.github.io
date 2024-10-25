@@ -3,7 +3,7 @@ title: "Automation"
 date: 2023-04-05T11:33:16+02:00
 ---
 
-This [GitHub repository](https://github.com/csunibo/infrastructure) collects the _Ansible_ files used by [our system administrators](https://github.com/orgs/csunibo/teams/sistemisti) to maintain our services. The underlying infrastructure of the virtual machines on which these _Ansible_ files are executed, however, is [managed by the students of AdmStaff](https://students.cs.unibo.it/wiki/). The tasks are written to be used with _Ansible_ in playbook mode.
+This [GitHub repository](https://github.com/cartabinaria/infrastructure) collects the _Ansible_ files used by [our system administrators](https://github.com/orgs/cartabinaria/teams/sistemisti) to maintain our services. The underlying infrastructure of the virtual machines on which these _Ansible_ files are executed, however, is [managed by the students of AdmStaff](https://students.cs.unibo.it/wiki/). The tasks are written to be used with _Ansible_ in playbook mode.
 
 ## Setup for all hosts
 

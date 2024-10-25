@@ -5,7 +5,7 @@ date: 2023-10-06T10:39:00+02:00
 
 ## Introduction
 
-The repository [csunibo/update](https://github.com/csunibo/update) contains a simple Bash script to apply the same patch (in `.diff` format) to all course repositories at once.
+The repository [cartabinaria/update](https://github.com/cartabinaria/update) contains a simple Bash script to apply the same patch (in `.diff` format) to all course repositories at once.
 
 ## Before You Begin
 

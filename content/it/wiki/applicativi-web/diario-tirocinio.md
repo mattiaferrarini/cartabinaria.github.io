@@ -3,8 +3,8 @@ title: "Diario Tirocinio"
 date: 2023-04-28T00:19:24+02:00
 ---
 
-- [Repository GitHub](https://github.com/csunibo/diario-tirocinio)
-- [Sito web](https://csunibo.github.io/diario-tirocinio/)
+- [Repository GitHub](https://github.com/cartabinaria/diario-tirocinio)
+- [Sito web](https://cartabinaria.github.io/diario-tirocinio/)
 
 ## Descrizione
 
@@ -14,7 +14,7 @@ effettive e aggiungerle al proprio resoconto ore.
 
 ## Utilizzo
 
-1. Accedere al sito web [csunibo.github.io/diario-tirocinio](https://csunibo.github.io/diario-tirocinio/)
+1. Accedere al sito web [cartabinaria.github.io/diario-tirocinio](https://cartabinaria.github.io/diario-tirocinio/)
 2. Aggiungi un semplice titolo
 3. Selezionare il numero di ore condotte
 4. Scrivi una descrizione del lavoro svolto

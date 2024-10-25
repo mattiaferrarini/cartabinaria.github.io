@@ -3,7 +3,7 @@ title: "Informabot"
 date: 2023-04-05T17:47:04+02:00
 ---
 
-`Informabot` (ospitato [su GitHub](https://github.com/csunibo/informabot)) è il
+`Informabot` (ospitato [su GitHub](https://github.com/cartabinaria/informabot)) è il
 bot Telegram che assiste gli studenti del DISI. Puoi scrivergli [da qui](https://t.me/UniboInformabot).
 
 ## Dipendenze
@@ -24,7 +24,7 @@ go build
 ## Esecuzione
 
 In vista della prima esecuzione, bisogna popolare il sottomodulo che incorpora
-[`csunibo/config`](../infrastruttura/configurazioni/):
+[`cartabinaria/config`](../infrastruttura/configurazioni/):
 
 ```bash
 git submodule update --init --recursive
@@ -115,7 +115,7 @@ predefinita.
 #### `buttonsLecture`
 
 Crea un percorso a step di selezione per le lezioni dei corsi di laurea 
-(triennali e magistrali) descritti in `csunibo/config/timetables.json`.
+(triennali e magistrali) descritti in `cartabinaria/config/timetables.json`.
 Per prima cosa richiede la selezione del CdL e dell'anno, infine la selezione
 di un giorno a partire da quello odierno fino ai 6 giorni successivi.
 Gli step funzionano grazie alle 
@@ -127,12 +127,12 @@ In caso di fallimento `fallbackText` viene usato come risposta.
 
 Il bot risponde taggando i `mantainer` di Informabot che sono presenti nel gruppo.
 In caso non ci sia alcun mantainer all'interno del gruppo consiglia di portare 
-all'attenzione dei `mantainer` nel gruppo `csunibo` il problema riscontrato.
+all'attenzione dei `mantainer` nel gruppo `cartabinaria` il problema riscontrato.
 
 #### `buttonsRepresentatives`
 
 Crea un percorso a step di selezione per i rappresentanti dei corsi di laurea
-(triennali e magistrali) descritti in 'csunibo/config/representatives.json`.
+(triennali e magistrali) descritti in 'cartabinaria/config/representatives.json`.
 Il comando chiede prima di selezionare il Cdl e restituisce l'elenco delle mail
 dei rappresentanti.
 Gli step funzionano grazie alle 
@@ -142,7 +142,7 @@ In caso di fallimento `fallbackText` viene usato come risposta.
 
 ### Insegnamenti e corsi di laurea
 
-Insegnamenti e corsi di laurea sono prelevati dal sottomodulo `csunibo/config`
+Insegnamenti e corsi di laurea sono prelevati dal sottomodulo `cartabinaria/config`
 collocato in `json/condig/`.
 
 ### Memi

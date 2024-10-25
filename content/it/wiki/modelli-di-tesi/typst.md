@@ -8,7 +8,7 @@ date: 2023-10-06:10:19+01:00
 
 ## Introduzione
 
-[Questo modello per tesi](https://github.com/csunibo/typst-thesis) fa uso di
+[Questo modello per tesi](https://github.com/cartabinaria/typst-thesis) fa uso di
 [Typst](https://typst.app), un sistema tipografico alternativo e più moderno
 rispetto a $\LaTeX$, ma al momento meno popolare. Anche Typst è pensato per
 l'uso in ambito scientifico.

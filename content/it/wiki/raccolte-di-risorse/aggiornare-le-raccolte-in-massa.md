@@ -5,7 +5,7 @@ date: 2023-10-06T10:39:00+02:00
 
 ## Introduzione
 
-La _repository_ [csunibo/update](https://github.com/csunibo/update) contiene un
+La _repository_ [cartabinaria/update](https://github.com/cartabinaria/update) contiene un
 semplice script Bash per applicare le stessa _patch_ (in formato `.diff`) a
 tutte le repository degli insegnamenti in un colpo solo.
 

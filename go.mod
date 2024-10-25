@@ -1,4 +1,4 @@
-module github.com/csunibo/csunibo.github.io
+module github.com/cartabinaria/cartabinaria.github.io
 
 go 1.15
 

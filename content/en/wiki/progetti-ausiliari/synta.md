@@ -5,7 +5,7 @@ date: 2023-10-06T12:00:05+02:00
 
 ## Introduction
 
-Synta [^1] is a command-line tool for performing various operations on the regular definition format used internally at [CSUnibo](https://github.com/csunibo) to constrain file naming conventions. It is available at [csunibo/synta](https://github.com/csunibo/synta). With Synta, you can:
+Synta [^1] is a command-line tool for performing various operations on the regular definition format used internally at [CartaBinaria](https://github.com/cartabinaria) to constrain file naming conventions. It is available at [cartabinaria/synta](https://github.com/cartabinaria/synta). With Synta, you can:
 
 - validate a `.synta` file's correctness;
 - convert a `.synta` file into a regular expression;

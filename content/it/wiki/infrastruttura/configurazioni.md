@@ -4,17 +4,17 @@ date: 2023-04-29T15:13:05+02:00
 ---
 
 Talvolta, gli stessi valori di configurazione possono essere usati più volte in
-progetti diversi di CSUnibo. Per esempio, le informazioni sui corsi di laurea
-e sugli insegnamenti sono usate sia da `csunibo/dynamik` (per la
-visualizzazione delle risorse in rete) che da `csunibo/informabot`.
+progetti diversi di CartaBinaria. Per esempio, le informazioni sui corsi di laurea
+e sugli insegnamenti sono usate sia da `cartabinaria/dynamik` (per la
+visualizzazione delle risorse in rete) che da `cartabinaria/informabot`.
 
 In un'ottica di riuso del codice, queste configurazioni sono centralizzate
-su [csunibo/config](https://github.com/csunibo/config).
+su [cartabinaria/config](https://github.com/cartabinaria/config).
 
 ### Modifiche alla repository
 
 Se avvengono delle modifiche nella repository puoi aprire una PR per aggiornare 
-csunibo/config per i servizi che ti interessano urgentemente. Per tutti gli 
+cartabinaria/config per i servizi che ti interessano urgentemente. Per tutti gli 
 altri abbiamo configurato Dependabot in modo che apra una PR in automatico nel 
 giro di ventiquattr'ore.
 
@@ -33,7 +33,7 @@ modifica di `main`.
 ## Insegnamenti (`teachings.json`)
 
 In `teachings.json` sono raccolti tutti gli insegnamenti (obbligatori e
-opzionali) per cui CSUnibo offre strumenti.
+opzionali) per cui CartaBinaria offre strumenti.
 
 ## Corsi di laurea (`degrees.json`)
 

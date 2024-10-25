@@ -3,7 +3,7 @@ title: "Applicativi web"
 date: "2023-04-28T00:19:24+02:00"
 reading_time: true
 authors:
-  - csunibo
+  - cartabinaria
 
 tags:
   - risorse

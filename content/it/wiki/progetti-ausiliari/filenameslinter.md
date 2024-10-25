@@ -7,4 +7,4 @@ date: 2023-10-06T12:26:58+02:00
 nomi dei file siano rispettate o meno. Può essere incorportato come dipendenza
 di altri progetti, ma è anche disponibile da linea di comando. È disponibile
 presso
-[csunibo/filenameslinter](https://github.com/csunibo/filenameslinter/tree/main).
+[cartabinaria/filenameslinter](https://github.com/cartabinaria/filenameslinter/tree/main).

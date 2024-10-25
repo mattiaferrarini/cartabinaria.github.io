@@ -3,7 +3,7 @@ title: "Informabot"
 date: 2023-04-05T17:47:04+02:00
 ---
 
-`Informabot` (hosted [on GitHub](https://github.com/csunibo/informabot)) is the Telegram bot that assists DISI students. You can chat with it [here](https://t.me/UniboInformabot).
+`Informabot` (hosted [on GitHub](https://github.com/cartabinaria/informabot)) is the Telegram bot that assists DISI students. You can chat with it [here](https://t.me/UniboInformabot).
 
 ## Dependencies
 
@@ -21,7 +21,7 @@ go build
 
 ## Execution
 
-Before the first execution, the submodule that includes [`csunibo/config`](../infrastruttura/configurazioni/) must be populated:
+Before the first execution, the submodule that includes [`cartabinaria/config`](../infrastruttura/configurazioni/) must be populated:
 
 ```bash
 git submodule update --init --recursive
@@ -83,19 +83,19 @@ Just as an alias having `abc` as the value of the `command` attribute triggers t
 
 #### `buttonsLecture`
 
-Creates a step-by-step selection path for the courses' lectures (bachelor's and master's) described in `csunibo/config/timetables.json`. First, it asks for the selection of the course of study and the year, then it requests the selection of a day starting from today until the next 6 days. Steps work thanks to [callbacks](https://core.telegram.org/bots/api#callbackquery). Uses the title described in `title` as the message header. In case of failure, `fallbackText` is used as the response.
+Creates a step-by-step selection path for the courses' lectures (bachelor's and master's) described in `cartabinaria/config/timetables.json`. First, it asks for the selection of the course of study and the year, then it requests the selection of a day starting from today until the next 6 days. Steps work thanks to [callbacks](https://core.telegram.org/bots/api#callbackquery). Uses the title described in `title` as the message header. In case of failure, `fallbackText` is used as the response.
 
 #### `issue`
 
-The bot responds by tagging the `maintainer` of Informabot who are present in the group. If there are no maintainers within the group, it suggests bringing the issue to the attention of the maintainers in the `csunibo` group.
+The bot responds by tagging the `maintainer` of Informabot who are present in the group. If there are no maintainers within the group, it suggests bringing the issue to the attention of the maintainers in the `cartabinaria` group.
 
 #### `buttonsRepresentatives`
 
-Creates a step-by-step selection path for the representatives of the courses of study (bachelor's and master's) described in 'csunibo/config/representatives.json`. The command first asks to select the CdL and returns the list of representatives' emails. Steps work thanks to [callbacks](https://core.telegram.org/bots/api#callbackquery). Uses the title described in `title` as the message header. In case of failure, `fallbackText` is used as the response.
+Creates a step-by-step selection path for the representatives of the courses of study (bachelor's and master's) described in 'cartabinaria/config/representatives.json`. The command first asks to select the CdL and returns the list of representatives' emails. Steps work thanks to [callbacks](https://core.telegram.org/bots/api#callbackquery). Uses the title described in `title` as the message header. In case of failure, `fallbackText` is used as the response.
 
 ### Courses and Degree Programs
 
-Courses and degree programs are retrieved from the `csunibo/config` submodule located in `json/config/`.
+Courses and degree programs are retrieved from the `cartabinaria/config` submodule located in `json/config/`.
 
 ### Memes
 

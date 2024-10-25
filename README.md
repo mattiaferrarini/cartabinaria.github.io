@@ -1,6 +1,6 @@
-# csunibo.github.io
+# cartabinaria.github.io
 
-[CSUnibo](https://github.com/csunibo)'s static homepage.
+[CartaBinaria](https://github.com/cartabinaria)'s static homepage.
 
 ## How to deploy locally
 ```bash

@@ -8,7 +8,7 @@ date: 2023-10-06T10:19:00+01:00
 
 ## Introduction
 
-[This thesis template](https://github.com/csunibo/typst-thesis) uses [Typst](https://typst.app), an alternative and more modern typographic system compared to $\LaTeX$, but currently less popular. Typst is also designed for scientific use.
+[This thesis template](https://github.com/cartabinaria/typst-thesis) uses [Typst](https://typst.app), an alternative and more modern typographic system compared to $\LaTeX$, but currently less popular. Typst is also designed for scientific use.
 
 ## Configuration
 

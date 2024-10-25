@@ -15,12 +15,12 @@ The following cases are exceptions. They have stricter checks, but if a subfolde
 
 ### `dispense/` and `lucidi/`
 
-The rules in [enumerazione.synta](https://github.com/csunibo/config/blob/main/enumerazione.synta) must be followed.
+The rules in [enumerazione.synta](https://github.com/cartabinaria/config/blob/main/enumerazione.synta) must be followed.
 
 ### `prove/`
 
-The rules in [prove.synta](https://github.com/csunibo/config/blob/main/prove.synta) must be followed.
+The rules in [prove.synta](https://github.com/cartabinaria/config/blob/main/prove.synta) must be followed.
 
 ## Compilation
 
-Any "source" files `.tex`/`.md`/`.typ`/`.doc(x)`/`.odt(x)` and similar must compile correctly into formats supported by CSUnibo.
+Any "source" files `.tex`/`.md`/`.typ`/`.doc(x)`/`.odt(x)` and similar must compile correctly into formats supported by CartaBinaria.

@@ -9,7 +9,7 @@ image:
   preview_only: true
 
 authors:
-  - csunibo
+  - cartabinaria
   - admstaff
 
 tags:

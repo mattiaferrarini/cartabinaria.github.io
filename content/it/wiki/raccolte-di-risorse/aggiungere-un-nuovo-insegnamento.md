@@ -4,9 +4,9 @@ date: 2023-06-06T00:49:44+02:00
 ---
 
 Aggiungere un nuovo insegnamento è facile, se ti trovi già all'interno
-dell'organizzazione [CSUnibo su GitHub](https//github.com/csunibo):
+dell'organizzazione [CartaBinaria su GitHub](https//github.com/cartabinaria):
 
-1. su [template-it](https://github.com/csunibo/template-it)/[template-en](https://github.com/csunibo/template-en),
+1. su [template-it](https://github.com/cartabinaria/template-it)/[template-en](https://github.com/cartabinaria/template-en),
    usa "Use this template"/"Create a new repository";
 2. come nuovo nome, usa `la-convenzione-kebab-case`, `ing-` come eventuale
    prefisso per Ingegneria informatica, `isi-` come eventuale prefisso per
@@ -31,13 +31,13 @@ dell'organizzazione [CSUnibo su GitHub](https//github.com/csunibo):
 10. aggiungi eventuali estensioni che vuoi compaiano sul sito risultante
    modificando `.github/workflows/build-and-deploy.yml`;
 11. aggiungi il nuovo insegnamento a
-    [`degrees.json`](https://github.com/csunibo/config/blob/main/degrees.json)
+    [`degrees.json`](https://github.com/cartabinaria/config/blob/main/degrees.json)
     e
-    [`teachings.json`](https://github.com/csunibo/config/blob/main/teachings.json)
-    della _repository_ `csunibo/config`.
+    [`teachings.json`](https://github.com/cartabinaria/config/blob/main/teachings.json)
+    della _repository_ `cartabinaria/config`.
 
 Ecco fatto! Se vuoi che l'insegnamento compaia anche negli elenchi di
-[Dynamik](https://github.com/csunibo/dynamik),
-[Informabot](https://github.com/csunibo/informabot) o di altri servizi, basta
-aggiornare il sottomodulo git di `csunibo/config` nelle rispettive
+[Dynamik](https://github.com/cartabinaria/dynamik),
+[Informabot](https://github.com/cartabinaria/informabot) o di altri servizi, basta
+aggiornare il sottomodulo git di `cartabinaria/config` nelle rispettive
 _repository_.

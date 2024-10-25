@@ -7,8 +7,8 @@ date: 2023-10-06T12:00:05+02:00
 
 Synta [^1] è uno strumento a linea di comando per svolgere svariate operazioni
 sul formato di definizione regolare usato internamente a
-[CSUnibo](https://github.com/csunibo) per vincolare le nomenclature dei file.
-È disponibile presso [csunibo/synta](https://github.com/csunibo/synta). Con
+[CartaBinaria](https://github.com/cartabinaria) per vincolare le nomenclature dei file.
+È disponibile presso [cartabinaria/synta](https://github.com/cartabinaria/synta). Con
 Synta è possibile:
 
 - verificare la validità di un file `.synta`;

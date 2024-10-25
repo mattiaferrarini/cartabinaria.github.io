@@ -3,13 +3,13 @@ title: "Configurations"
 date: 2023-04-29T15:13:05+02:00
 ---
 
-Sometimes, the same configuration values can be used multiple times in different projects at CSUnibo. For example, information about degree courses and teachings is used both by `csunibo/dynamik` (for displaying resources online) and by `csunibo/informabot`.
+Sometimes, the same configuration values can be used multiple times in different projects at CartaBinaria. For example, information about degree courses and teachings is used both by `cartabinaria/dynamik` (for displaying resources online) and by `cartabinaria/informabot`.
 
-In an effort to reuse code, these configurations are centralized on [csunibo/config](https://github.com/csunibo/config).
+In an effort to reuse code, these configurations are centralized on [cartabinaria/config](https://github.com/cartabinaria/config).
 
 ### Changes to the Repository
 
-If there are changes in the repository, you can open a PR to update csunibo/config for the services that are urgently of interest to you. For all others, we have set up Dependabot to automatically open a PR within twenty-four hours.
+If there are changes in the repository, you can open a PR to update cartabinaria/config for the services that are urgently of interest to you. For all others, we have set up Dependabot to automatically open a PR within twenty-four hours.
 
 ## CI/CD (`.github/workflows/`)
 
@@ -21,7 +21,7 @@ The grammars describing the naming convention rules to be adopted for resource n
 
 ## Teachings (`teachings.json`)
 
-All teachings (mandatory and optional) for which CSUnibo provides tools are collected in `teachings.json`.
+All teachings (mandatory and optional) for which CartaBinaria provides tools are collected in `teachings.json`.
 
 ## Degree Courses (`degrees.json`)
 

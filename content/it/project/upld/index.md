@@ -5,5 +5,5 @@ tags:
   - dipendenze
   - arrivo
 date: '2023-10-10T15:49:41+02:00'
-external_link: 'https://github.com/csunibo/upld'
+external_link: 'https://github.com/cartabinaria/upld'
 ---

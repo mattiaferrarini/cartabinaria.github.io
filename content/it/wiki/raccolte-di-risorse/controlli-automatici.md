@@ -26,16 +26,16 @@ corpo docente.
 ### `dispense/` e `lucidi/`
 
 Le regole in
-[enumerazione.synta](https://github.com/csunibo/config/blob/main/enumerazione.synta)
+[enumerazione.synta](https://github.com/cartabinaria/config/blob/main/enumerazione.synta)
 devono essere rispettate.
 
 ### `prove/`
 
 Le regole in
-[prove.synta](https://github.com/csunibo/config/blob/main/prove.synta)
+[prove.synta](https://github.com/cartabinaria/config/blob/main/prove.synta)
 devono essere rispettate.
 
 ## Compilazione
 
 Eventuali file "sorgenti" `.tex`/`.md`/`.typ`/`.doc(x)`/`.odt(x)` e simili
-devono compilare correttamente nei formati supportati da CSUnibo.
+devono compilare correttamente nei formati supportati da CartaBinaria.

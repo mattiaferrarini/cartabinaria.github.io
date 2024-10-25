@@ -3,14 +3,14 @@ title: "Calendar"
 date: 2023-04-05T00:16:04+02:00
 ---
 
-- [GitHub Repository](https://github.com/csunibo/UniboCalendar)
+- [GitHub Repository](https://github.com/cartabinaria/UniboCalendar)
 - [Website](https://calendar.students.cs.unibo.it/)
 
 ## Description
 
 The application allows obtaining the class schedules of a degree course at the University of Bologna in ical format. Users can choose from available degree courses and select which classes to add to their calendar.
 
-The project did not originate within CSUnibo, but a public instance is maintained by us. The [original project](https://github.com/FrancescoBonzi/UniboCalendar) is by Francesco Bonzi.
+The project did not originate within CartaBinaria, but a public instance is maintained by us. The [original project](https://github.com/FrancescoBonzi/UniboCalendar) is by Francesco Bonzi.
 
 ## Usage
 

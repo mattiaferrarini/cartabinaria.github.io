@@ -3,8 +3,8 @@ title: "Internship Diary"
 date: 2023-04-28T00:19:24+02:00
 ---
 
-- [GitHub Repository](https://github.com/csunibo/diario-tirocinio)
-- [Website](https://csunibo.github.io/diario-tirocinio/)
+- [GitHub Repository](https://github.com/cartabinaria/diario-tirocinio)
+- [Website](https://cartabinaria.github.io/diario-tirocinio/)
 
 ## Description
 
@@ -12,7 +12,7 @@ The application allows saving the number of hours completed during the internshi
 
 ## Usage
 
-1. Go to the website [csunibo.github.io/diario-tirocinio](https://csunibo.github.io/diario-tirocinio/)
+1. Go to the website [cartabinaria.github.io/diario-tirocinio](https://cartabinaria.github.io/diario-tirocinio/)
 2. Add a simple title
 3. Select the number of conducted hours
 4. Write a description of the work done

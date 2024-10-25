@@ -1,6 +1,6 @@
 ---
 # Display name
-title: CSUnibo
+title: CartaBinaria
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ role: ""
 
 # Organizations/Affiliations
 # organizations:
-# - name: csunibo
+# - name: cartabinaria
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -44,18 +44,18 @@ bio: Community of students from the Department of Computer Science and Engineeri
 social:
   - icon: github
     icon_pack: fab
-    link: "https://github.com/csunibo"
+    link: "https://github.com/cartabinaria"
   - icon: telegram
     icon_pack: fab
-    link: "https://t.me/csunibo"
+    link: "https://t.me/cartabinaria"
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
 
-_CSUnibo_ is a hub for students of the [Department of Computer Science and
+_CartaBinaria_ is a hub for students of the [Department of Computer Science and
 Engineering (DISI)](https://disi.unibo.it) of the [University of
 Bologna](https://www.unibo.it). Everybody here can use our tools, resources, and
 project, as well as contribute to their development.
 
-Do you want to know more? Check [our wiki](https://csunibo.github.io/wiki)
-or [text us](https://t.me/csunibo).
+Do you want to know more? Check [our wiki](https://cartabinaria.github.io/wiki)
+or [text us](https://t.me/cartabinaria).

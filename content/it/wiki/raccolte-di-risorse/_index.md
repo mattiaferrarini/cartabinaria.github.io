@@ -2,7 +2,7 @@
 title: "Raccolte di risorse"
 date: "2023-04-28T00:19:24+02:00"
 authors:
-  - csunibo
+  - cartabinaria
 
 tags:
   - risorse

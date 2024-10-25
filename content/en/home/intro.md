@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-_CSUnibo_ is a community of students from the Department of Computer Science and Engineering of the University of Bologna <br>
+_CartaBinaria_ is a community of students from the Department of Computer Science and Engineering of the University of Bologna <br>
 
 On this page you can find links for our projects, as well as information on our
 community.

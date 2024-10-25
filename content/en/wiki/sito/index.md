@@ -1,7 +1,7 @@
 ---
 title: 'Our Website'
-subtitle: 'Quick and Easy Guide to CSUnibo Website'
-summary: 'Brief information on contributing to the CSUnibo website, how to deploy locally, and how to add new content.'
+subtitle: 'Quick and Easy Guide to CartaBinaria Website'
+summary: 'Brief information on contributing to the CartaBinaria website, how to deploy locally, and how to add new content.'
 
 # Date published
 date: '2023-10-19T16:54:45+02:00'
@@ -24,7 +24,7 @@ image:
   preview_only: false
 
 authors:
-  - csunibo
+  - cartabinaria
 
 tags:
   - howto
@@ -34,7 +34,7 @@ categories:
   - web applications
 ---
 
-[CSUnibo](https://github.com/csunibo)'s static homepage.
+[CartaBinaria](https://github.com/cartabinaria)'s static homepage.
 
 ## How to Deploy Locally?
 ```bash

@@ -8,8 +8,8 @@ date: 2022-01-01
 ---
 Here's our proposals for thesis templates:
 
-- [AsciiDoc](https://github.com/csunibo/asciidoc-thesis) 
+- [AsciiDoc](https://github.com/cartabinaria/asciidoc-thesis) 
 
-- [LaTeX](https://github.com/csunibo/latex-thesis)      
+- [LaTeX](https://github.com/cartabinaria/latex-thesis)      
 
-- [Typst](https://github.com/csunibo/typst-thesis) 
+- [Typst](https://github.com/cartabinaria/typst-thesis) 

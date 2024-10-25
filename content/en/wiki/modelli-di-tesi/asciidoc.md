@@ -8,7 +8,7 @@ date: 2023-03-18T13:13:34+01:00
 
 ## Introduction
 
-[This thesis template](https://github.com/csunibo/asciidoc-thesis) uses [AsciiDoc](https://asciidoc.org), a document format simpler and more concise than LaTeX, yet still capable of generating rich and engaging content. It is often used for technical documentation. Writing your thesis in this format can simplify your life.
+[This thesis template](https://github.com/cartabinaria/asciidoc-thesis) uses [AsciiDoc](https://asciidoc.org), a document format simpler and more concise than LaTeX, yet still capable of generating rich and engaging content. It is often used for technical documentation. Writing your thesis in this format can simplify your life.
 
 You can use this project as a template for a new repository on your profile: just click on "Use this template" in the top right corner.
 

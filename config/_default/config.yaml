@@ -3,15 +3,15 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: CSUnibo # Website name
-baseURL: "https://csunibo.github.io/it/" # Website URL
+title: CartaBinaria # Website name
+baseURL: "https://cartabinaria.github.io/it/" # Website URL
 
 ############################
 ## PAGE OPTIONS
 ############################
 
 cascade:
-  # Blog post options for csunibo/wiki
+  # Blog post options for cartabinaria/wiki
   - _target:
       path: /wiki/**
     pager: true
@@ -22,7 +22,7 @@ cascade:
     show_breadcrumb: true
     share: true
 
-    # Blog post options for csunibo/opportunities
+    # Blog post options for cartabinaria/opportunities
   - _target:
       path: /opportunities/**
     pager: true

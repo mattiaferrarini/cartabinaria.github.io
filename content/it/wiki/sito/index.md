@@ -1,7 +1,7 @@
 ---
 title: 'Il nostro sito'
-subtitle: 'Guida facile e veloce al sito di CSUnibo'
-summary: 'Brevi informazioni per contribuire al sito di CSUnibo, come fare il deploy localmente e come aggiungere nuovi contenuti.'
+subtitle: 'Guida facile e veloce al sito di CartaBinaria'
+summary: 'Brevi informazioni per contribuire al sito di CartaBinaria, come fare il deploy localmente e come aggiungere nuovi contenuti.'
 
 # Date published
 date: '2023-10-19T16:54:45+02:00'
@@ -24,7 +24,7 @@ image:
   preview_only: false
 
 authors:
-  - csunibo
+  - cartabinaria
 
 tags:
   - howto
@@ -33,7 +33,7 @@ categories:
   - contribuire
   - applicativi web
 ---
-[CSUnibo](https://github.com/csunibo)'s static homepage.
+[CartaBinaria](https://github.com/cartabinaria)'s static homepage.
 
 ## Come fare il deploy localmente?
 ```bash

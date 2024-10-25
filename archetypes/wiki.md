@@ -27,7 +27,7 @@ image:
   preview_only: false
 
 authors:
-  - csunibo
+  - cartabinaria
   - admstaff
 
 tags:
