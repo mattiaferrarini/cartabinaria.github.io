@@ -1,6 +1,6 @@
 ---
 title: "Typst"
-date: 2023-10-06:10:19+01:00
+date: 2023-10-06T10:19:00+01:00
 ---
 
 > "Quando la tipografia è curata, le parole diventano immagini."
