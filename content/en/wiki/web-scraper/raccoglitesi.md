@@ -10,7 +10,7 @@ date: 2023-03-18T13:13:34+01:00
 
 Raccoglitesi is a command-line utility for Unibo students: it finds all the bachelor's and master's theses offered by a certain department. Raccoglitesi updates automatically and daily.
 
-The project is hosted on [GitHub](https://github.com/cartabinaria/raccoglitesi). The most recent version of the generated list is always available [here in PDF](https://cartabinaria.students.cs.unibo.it/raccoglitesi/disi.pdf) or [here as a web page](https://cartabinaria.github.io/raccoglitesi/disi).
+The project is hosted on [GitHub](https://github.com/cartabinaria/raccoglitesi). The most recent version of the generated list is always available [here in PDF](https://cartabinaria.github.io/raccoglitesi/disi.pdf) or [here as a web page](https://cartabinaria.github.io/raccoglitesi/disi).
 
 ## How it Works
 

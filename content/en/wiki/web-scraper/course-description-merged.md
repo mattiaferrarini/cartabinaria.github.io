@@ -7,7 +7,7 @@ A web scraper that gathers all courses with descriptions and links to their resp
 The project is hosted on [GitHub](https://github.com/cartabinaria/course-description-merged).
 The resulting self-generated document is available in the following formats:
 
-- [HTML](https://cartabinaria.students.cs.unibo.it/course-description-merged);
+- [HTML](https://cartabinaria.github.io/course-description-merged);
 - Asciidoc (visit the page of a single degree program and use the `.adoc` extension instead of `.html`);
 - PDF (visit the page of a single degree program and use the `.pdf` extension instead of `.html`).
 

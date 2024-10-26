@@ -7,7 +7,7 @@ Un webscraper che, quotidianamente, raccoglie tutti i corsi con descrizione e li
 Il progetto è ospitato su [GitHub](https://github.com/cartabinaria/course-description-merged).
 Il documento autogenerato risultante è disponibile nei formati:
 
-- [HTML](https://cartabinaria.students.cs.unibo.it/course-description-merged);
+- [HTML](https://cartabinaria.github.io/course-description-merged);
 - Asciidoc (visitare la pagina di un singolo CdL e usare l'estensione `.adoc`
   anziché `.html`);
 - PDF (visitare la pagina di un singolo CdL e usare l'estensione `.pdf`
