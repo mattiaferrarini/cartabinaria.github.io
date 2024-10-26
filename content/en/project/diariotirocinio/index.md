@@ -1,6 +1,6 @@
 ---
 title: "diariotirocinio"
-summary: "A simple tool to summarize the activities you carried our during your internship (https://github.com/cartabinaria/diariotirocinio)"
+summary: "A simple tool to summarize the activities you carried our during your internship"
 tags:
   - web
 date: "2023-10-10T15:39:57+02:00"
