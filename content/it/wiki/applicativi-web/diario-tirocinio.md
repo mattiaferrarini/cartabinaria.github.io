@@ -4,7 +4,7 @@ date: 2023-04-28T00:19:24+02:00
 ---
 
 - [Repository GitHub](https://github.com/cartabinaria/diario-tirocinio)
-- [Sito web](https://cartabinaria.students.cs.unibo.it/diario-tirocinio/)
+- [Sito web](https://cartabinaria.github.io/diario-tirocinio/)
 
 ## Descrizione
 

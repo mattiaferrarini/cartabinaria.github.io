@@ -4,7 +4,7 @@ date: 2023-06-06T00:49:44+02:00
 ---
 
 Aggiungere un nuovo insegnamento è facile, se ti trovi già all'interno
-dell'organizzazione [CartaBinaria su GitHub](https//github.com/cartabinaria):
+dell'organizzazione [CartaBinaria su GitHub](https://github.com/cartabinaria):
 
 1. su [template-it](https://github.com/cartabinaria/template-it)/[template-en](https://github.com/cartabinaria/template-en),
    usa "Use this template"/"Create a new repository";
