@@ -3,7 +3,7 @@ title: "Calendario"
 date: 2023-04-05T00:16:04+02:00
 ---
 
-- [Repository GitHub](https://github.com/cartabinaria/UniboCalendar)
+- [Repository GitHub](https://github.com/cartabinaria/unibocalendar)
 - [Sito web](https://calendar.students.cs.unibo.it/)
 
 ## Descrizione
@@ -13,25 +13,23 @@ un corso di laurea dell'Università di Bologna. L'utente può scegliere tra i
 corsi di laurea disponibili e scegliere quali lezioni aggiungere al proprio
 calendario.
 
-Il progetto non nasce in seno a CartaBinaria, ma una istanza pubblica è manutenuta
-da noi. Il [progetto originale](https://github.com/FrancescoBonzi/UniboCalendar)
-è di Francesco Bonzi.
+Il progetto non nasce in seno a CartaBinaria: è una riscrittura in Go di un
+[progetto di Francesco Bonzi](https://github.com/FrancescoBonzi/UniboCalendar).
 
 ## Utilizzo
 
 1. Accedere al sito web [https://calendar.students.cs.unibo.it/](https://calendar.students.cs.unibo.it/)
-2. Selezionare il corso di laurea di interesse e fare click su "Avanti"
-3. Selezionare le lezioni di interesse e fare click su "Ottieni calendario"
-4. \[Opzionale\] Configurare le notifiche del calendario (es 30 min prima della
-   lezione)
-5. Utilizzare i pulsanti `Aggiungi a Google` o `Aggiungi ad Apple` per
-   aggiungere il calendario al proprio calendario personale.
+2. Selezionare il corso di laurea di interesse
+3. Se solo alcuni insegnamenti sono rilevanti, usare `Filter`
+4. Scegli:
+   1. Per aggiungere il calendario a un'applicazione generica, cliccare su `Copy`
+      e poi incollare il link nella propria applicazione
+   2. Per visualizzare il calendario dal proprio browser, cliccare su `Apri
+      online`
+   3. Per applicazioni di calendario specifiche, cliccare sui relativi pulsanti
 
 {{% callout note %}}
-Il pulsante "Aggiungi ad Apple" in realtà funziona con molti servizi di
-calendario, non solo con Apple.
-
-Per aggiungerlo ad altri software, fare tasto destro sul pulsante `Aggiungi ad
-apple`, copiare l'indirizzo e incollarlo nel proprio software su "aggiungi
-calendario da fonte remota" o simili.
+Se i propri browser e dispositivo sono configurati per aprire con una certa
+applicazione di calendario gli indirizzi con lo schema `webcal://`, il pulsante
+`Apple Calendar` funzionerà con tale applicazione.
 {{% /callout %}}
