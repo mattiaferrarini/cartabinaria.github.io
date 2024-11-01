@@ -1,4 +1,4 @@
-# [cartabinaria.students.cs.unibo.it](https://https://cartabinaria.students.cs.unibo.it/it/)
+# [cartabinaria.students.cs.unibo.it](https://cartabinaria.students.cs.unibo.it/it/)
 
 [CartaBinaria](https://github.com/cartabinaria)'s static homepage.
 
