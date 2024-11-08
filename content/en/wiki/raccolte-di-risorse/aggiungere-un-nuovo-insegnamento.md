@@ -6,7 +6,7 @@ date: 2023-06-06T00:49:44+02:00
 Adding a new course is easy if you are already within the [CartaBinaria organization on GitHub](https://github.com/cartabinaria):
 
 1. On [template-it](https://github.com/cartabinaria/template-it)/[template-en](https://github.com/cartabinaria/template-en), use "Use this template"/"Create a new repository";
-2. As the new name, use `the-kebab-case-convention`, `ing-` as a possible prefix for Computer Engineering, `isi-` as a possible prefix for Computer Science and Engineering, or `ipim-` as a possible prefix for Information Science for Management (no prefixes are needed to distinguish between bachelor's and master's courses);
+2. As the new name, use `the-kebab-case-convention`, `ing-` as a possible prefix for Computer Engineering, `isi-` as a possible prefix for Computer Science and Engineering, or `ipim-` as a possible prefix for Information Science for Management, `dhdk-` as a possible prefix for Digital Humanities and Digital Knowledge, (no prefixes are needed to distinguish between bachelor's and master's degrees);
 3. As the description, use a phrase similar to "A collection of resources for the Programming Languages course (04138) of the Bachelor's Degree in Computer Science";
 4. Choose "Public" and proceed to "Create repository from template";
 5. Enable GitHub Pages from "Settings" / "Pages" setting "Source" to "GitHub Actions";
