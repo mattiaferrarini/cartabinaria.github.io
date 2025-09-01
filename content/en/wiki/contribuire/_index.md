@@ -31,7 +31,7 @@ If what you want to propose is an entirely new tool, not an improvement to somet
 
 ## Becoming a Maintainer
 
-[CartaBinaria maintainers](https://github.com/orgs/cartabinaria/people) serve other students to moderate their contributions and provide them with support, divided into [groups](https://github.com/org/cartabinaria/teams) based on their interests. No previous experience is required because we offer complete training. We are always looking for new interested people!
+[CartaBinaria maintainers](https://github.com/orgs/cartabinaria/people) serve other students to moderate their contributions and provide them with support, divided into [groups](https://github.com/orgs/cartabinaria/teams) based on their interests. No previous experience is required because we offer complete training. We are always looking for new interested people!
 
 ## Help! I want to help, but I have no ideas...
 

@@ -59,7 +59,7 @@ penseranno alla manutenzione.
 CartaBinaria](https://github.com/orgs/cartabinaria/people) si mettono al servizio delle
 altre studentesse e degli altri studenti per moderare i loro contributi e
 fornire loro supporto, divise e divisi in
-[gruppi](https://github.com/org/cartabinaria/teams) in base ai propri interessi. Non
+[gruppi](https://github.com/orgs/cartabinaria/teams) in base ai propri interessi. Non
 serve nessuna esperienza pregressa, perché offriamo formazione completa. Siamo
 sempre in cerca di nuove persone interessate!
 

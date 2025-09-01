@@ -13,11 +13,11 @@ For most folders, it's sufficient to use `kebab-case` (i.e., lowercase letters a
 
 The following cases are exceptions. They have stricter checks, but if a subfolder passes them, its contents are not checked (the folder is not visited recursively). This is useful for subfolders whose elements, by their nature, must preserve their original naming convention, such as projects or some collections of files provided by the teaching staff.
 
-### `dispense/` and `lucidi/`
+### `booklets/` and `slides/`
 
 The rules in [enumerazione.synta](https://github.com/cartabinaria/config/blob/main/enumerazione.synta) must be followed.
 
-### `prove/`
+### `exams/`
 
 The rules in [prove.synta](https://github.com/cartabinaria/config/blob/main/prove.synta) must be followed.
 

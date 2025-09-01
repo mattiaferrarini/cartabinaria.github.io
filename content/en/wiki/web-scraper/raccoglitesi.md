@@ -24,5 +24,5 @@ It finds information on certain pages of the website, such as:
 It is worth noting that all this information could change over time (such as the URLs of resources, HTML tags through which the desired information is found). It is therefore important to continue monitoring whether the script still works. For this reason, the program is run every day at midnight.
 
 ## Analyzed Departments
-- [DISI: Department of Computer Science and Engineering](https://cartabinaria.students.cs.unibo.it/raccoglitesi/disi)
-- [DEI: Department of Electrical, Electronic, and Information Engineering "Guglielmo Marconi"](https://cartabinaria.students.cs.unibo.it/raccoglitesi/dei)
+- [DISI: Department of Computer Science and Engineering](https://cartabinaria.github.io/raccoglitesi/disi)
+- [DEI: Department of Electrical, Electronic, and Information Engineering "Guglielmo Marconi"](https://cartabinaria.github.io/raccoglitesi/dei)

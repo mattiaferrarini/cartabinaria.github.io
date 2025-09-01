@@ -4,13 +4,13 @@ date: 2023-06-06T00:49:44+02:00
 ---
 
 Aggiungere un nuovo insegnamento è facile, se ti trovi già all'interno
-dell'organizzazione [CartaBinaria su GitHub](https//github.com/cartabinaria):
+dell'organizzazione [CartaBinaria su GitHub](https://github.com/cartabinaria):
 
 1. su [template-it](https://github.com/cartabinaria/template-it)/[template-en](https://github.com/cartabinaria/template-en),
    usa "Use this template"/"Create a new repository";
 2. come nuovo nome, usa `la-convenzione-kebab-case`, `ing-` come eventuale
    prefisso per Ingegneria informatica, `isi-` come eventuale prefisso per
-   Ingegneria e scienze informatiche, `ipim-` come eventuale prefisso per Informatica per il management (non servono prefissi per distinguere
+   Ingegneria e scienze informatiche, `ipim-` come eventuale prefisso per Informatica per il management, `dhdk-` come eventuale prefisso per Digital Humanities and Digital Knowledge, (non servono prefissi per distinguere
    triennali da magistrali);
 3. come descrizione, usa una frase simile a "Una raccolta di risorse per
    l'insegnamento di Linguaggi di programmazione (04138) del Corso di Laurea in
@@ -21,7 +21,7 @@ dell'organizzazione [CartaBinaria su GitHub](https//github.com/cartabinaria):
 6. concedi i diritti "Mantain" ai gruppi interessati. Per esempio, per un
     insegnamento di Ingegneria informatica del secondo anno, andrebbero aggiunti
     i gruppo di Ingegneria informatica del secondo e terzo anno.
-    Non è necessario rimuovere sè stessi dal ruolo di Admin;
+    Non è necessario rimuovere sé stessi dal ruolo di Admin;
 7. nella pagina principale del nuovo insegnamento su GitHub, clicca
    sull'ingranaggio a fianco di "About";
 8. come "Website", usa `https://dynamik.vercel.app/nome-repository`,

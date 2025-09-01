@@ -73,10 +73,9 @@ l'impaginazione.
 ### Liste
 
 La documentazione ufficiale per la struttura e lo stile:
-
-- https://docs.asciidoctor.org/asciidoc/latest/lists/unordered/[Liste Generiche]
-- https://docs.asciidoctor.org/asciidoc/latest/lists/unordered/[Liste Ordinate]
-- https://docs.asciidoctor.org/pdf-converter/latest/theme/list/[Stile]
+- [Liste Generiche](https://docs.asciidoctor.org/asciidoc/latest/lists/unordered/)
+- [Liste Ordinate](https://docs.asciidoctor.org/asciidoc/latest/lists/ordered/)
+- [Stile](https://docs.asciidoctor.org/pdf-converter/latest/theme/list/)
 
 Offriamo diversi stili per le liste:
 
